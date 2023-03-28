@@ -1,26 +1,55 @@
 {
   "projects": [
     {
-      "name": "Desenvolvedor",
-      "budget": "5000",
+      "name": "Gest. Market",
+      "budget": "9000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 500,
+      "services": [
+        {
+          "name": "pedro",
+          "cost": "500",
+          "description": "d",
+          "id": "26c56df8-99ab-4c18-b4f2-3a7f6fb55b93"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Dev FullStack",
+      "budget": "8000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
-      "id": 1
+      "id": 3
     },
     {
-      "name": "teste",
-      "budget": "50000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "name": "Prof. UX|UI",
+      "budget": "3500",
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "Tech Leader",
+      "budget": "10000",
       "category": {
         "id": "1",
         "name": "Infra"
       },
       "cost": 0,
       "services": [],
-      "id": 2
+      "id": 5
     }
   ],
   "categories": [

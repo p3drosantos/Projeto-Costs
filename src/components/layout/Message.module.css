@@ -18,3 +18,9 @@
     background-color: #f8d7da;
     border-color: #f5c6cb;
 }
+
+.remove{
+    color: rgb(255, 145, 1);
+    background-color: antiquewhite;
+    border-color: rgb(199, 163, 116);
+}
