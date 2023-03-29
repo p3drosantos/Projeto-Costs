@@ -7,15 +7,8 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 500,
-      "services": [
-        {
-          "name": "pedro",
-          "cost": "500",
-          "description": "d",
-          "id": "26c56df8-99ab-4c18-b4f2-3a7f6fb55b93"
-        }
-      ],
+      "cost": 0,
+      "services": [],
       "id": 2
     },
     {

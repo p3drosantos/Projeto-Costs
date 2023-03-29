@@ -292,6 +292,8 @@ function Project() {
     // add service cost to project cost total
     project.cost = newCost
 
+
+
     fetch(`http://localhost:5000/projects/${project.id}`, {
       method: 'PATCH',
       headers: {
@@ -331,6 +333,8 @@ function Project() {
         setServices(servicesUpdated)
         setMessage('Serviço removido com sucesso!')
       })
+
+      setMessage("")
   }
 
   function toggleProjectForm() {
